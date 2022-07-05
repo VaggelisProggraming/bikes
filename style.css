@@ -1,0 +1,122 @@
+body {
+    background-color: gray;
+    font-family: Verdana, sans-serif;
+}
+
+.scott {
+    background: linear-gradient( white 50%, black 50%);
+}
+
+.Spark_RC {
+    text-align: center;
+    width: 600px;
+    height: 330px;
+    background: url(./photos/ransom.jpg);
+}
+.scale_940 {
+    text-align: center;
+    width: 600px;
+    height: 330px;
+    background: url(./photos/940.JPEG);
+}
+.Gamber {
+    color: white;
+    text-align: center;
+    width: 500px;
+    height: 330px;
+    background: url(./photos/gamber.JPEG);
+    
+}
+.shop-scott {
+    display: block;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    text-decoration: none;
+    border-radius: 12px;
+    height: 24px;
+}
+
+.shop-scott:hover {
+    color: white;
+    animation: infinite hoverscott 1s;
+}
+.shop-scott:hover:active {
+    color: white;
+    animation: infinite hoverscott 1s;
+}
+.shop-scott:active {
+    color: white;
+    animation: infinite hoverscott 1s;
+}
+
+@keyframes hoverscott {
+    50% {
+        background-color: white;
+        color: black;
+    }
+    100% {
+        background-color: black;
+        color: white;
+    }
+}
+@keyframes hovertrek {
+    50% {
+        background-color: red;
+        color: black;
+    }
+    100% {
+        background-color: black;
+        color: red;
+    }
+}
+
+.trek {
+    background: linear-gradient( red 50%, white 50%);
+}
+
+.supercalimber {
+    color: white;
+    text-align: center;
+    width: 700px;
+    height: 330px;
+    background: url(./photos/supercalmber.jpg);
+}
+.session {
+    color: white;
+    text-align: center;
+    width: 500px;
+    height: 330px;
+    background: url(./photos/session.JPEG);
+}
+.marlin {
+    color: white;
+    text-align: center;
+    width: 500px;
+    height: 330px;
+    background: url(./photos/marling.JPEG);
+}
+.shop-trek {
+    display: block;
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    text-decoration: none;
+    border-radius: 12px;
+    height: 24px;
+}
+    
+.shop-trek:hover {
+    color: white;
+    animation: infinite hovertrek 1s;
+}
+.shop-trek:hover:active {
+    color: white;
+    animation: infinite hovertrek 1s;
+}
+.shop-trek:active {
+    color: white;
+    animation: infinite hovertrek 1s;
+}
