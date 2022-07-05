@@ -11,20 +11,20 @@ body {
     text-align: center;
     width: 600px;
     height: 330px;
-    background: url(./photos/ransom.jpg);
+    background: url(./ransom.jpg);
 }
 .scale_940 {
     text-align: center;
     width: 600px;
     height: 330px;
-    background: url(./photos/940.JPEG);
+    background: url(./940.JPEG);
 }
 .Gamber {
     color: white;
     text-align: center;
     width: 500px;
     height: 330px;
-    background: url(./photos/gamber.JPEG);
+    background: url(./gamber.JPEG);
     
 }
 .shop-scott {
@@ -81,21 +81,21 @@ body {
     text-align: center;
     width: 700px;
     height: 330px;
-    background: url(./photos/supercalmber.jpg);
+    background: url(./supercalmber.jpg);
 }
 .session {
     color: white;
     text-align: center;
     width: 500px;
     height: 330px;
-    background: url(./photos/session.JPEG);
+    background: url(./session.JPEG);
 }
 .marlin {
     color: white;
     text-align: center;
     width: 500px;
     height: 330px;
-    background: url(./photos/marling.JPEG);
+    background: url(./marling.JPEG);
 }
 .shop-trek {
     display: block;
